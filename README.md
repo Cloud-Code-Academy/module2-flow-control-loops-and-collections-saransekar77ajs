@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15512017&assignment_repo_type=AssignmentRepo)
 
 # Developer Kickstart Module 2: Flow Control, Loops, and Collections
 
@@ -14,9 +15,11 @@ Through this practice repository, you will gain foundational knowledge about:
 By mastering flow control, loops, and collections, you will enhance your ability to write flexible and powerful Apex code. These concepts are fundamental to building robust and efficient solutions in Salesforce.
 
 ## Setup
+
 [Setup Overview](https://learn.cloudcodeacademy.com/courses/salesforce-developer-kickstart-program/lectures/47317682)
 
 ## Getting Started Checklist
+
 1. Create/Configure a trailhead playground or developer org to do your work throughout this program.
 2. Install Visual Studio Code from [here](https://code.visualstudio.com/download).
 3. Install Salesforce Extension Pack in Visual Studio Code. This can be done by searching 'Salesforce Extension Pack' in the Extensions view in VS Code and clicking Install.
